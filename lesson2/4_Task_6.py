@@ -14,3 +14,13 @@ def count_():
         else:
             count_list.append(el)
     return print(count_list)
+
+def cycle_():
+    i = 0
+    for el in cycle(cycle_list):
+        if i > 8:
+            break
+        print(el)
+        i += 1
+cycle_()
+count_()
