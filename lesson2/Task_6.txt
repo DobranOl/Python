@@ -1,0 +1,5 @@
+Mathematics: 50 (lec), 100 (practice)
+Physics: 50 (lec), 50 (practice), 50 (lab)
+Music: 50 (lec), 100 (practice)
+Gymnastic: 130 (practice)
+Literacy: 120 (lec)
